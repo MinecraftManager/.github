@@ -2,6 +2,6 @@
 
 # McManager
 
-Minecraft Manager is a tool to manage multiple Minecraft servers, based on Docker.
+Minecraft Manager is a tool to manage multiple and setup Minecraft servers, based on Docker.
 
 As of now, McManager (short for MinecraftManager) is in **active** development
